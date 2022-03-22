@@ -60,7 +60,7 @@ class LocationForm extends React.Component {
       <h1>{value.display_name}</h1>
       <h2>Latitude of ${value.lat}, Longitude of ${value.lon}</h2>
       <Button onClick={this.handleMapData}>Location Map</Button>
-      <img src={this.state.mapUrl} alt={value.display_name}/>
+      <img src={this.state.mapData} alt={value.display_name}/>
     </article>
     )
     return (
