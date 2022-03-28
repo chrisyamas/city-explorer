@@ -26,13 +26,33 @@
 
 ## Lab 06
 
-### Feature: Set up your React repository & API keys
+### Set up your React repository & API keys
 
 Estimate of time needed to complete: 45 mins
 
-Start time: 8:30pm
+Start time: 8:30pm CT
 
-Finish time: _____
+Finish time: 9:45pm CT
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1hr 15min
+
+### Location: Render Lat & Lon upon Location name search
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 9:55pm CT
+
+Finish time: 10:45pm CT
+
+Actual time needed to complete: 55 mins
+
+### Map: Render City Map using Lat/Lon data get
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 10:50pm CT
+
+Finish time: 11:55pm CT
+
+Actual time needed to complete: 1 hr 5 mins
 
