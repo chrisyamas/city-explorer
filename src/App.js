@@ -50,7 +50,7 @@ class App extends React.Component {
 
     let locDisplay= this.state.locationData.map((loc,idx) => {
       return (
-        <LocationDisplay key={idx} location={loc}/>
+        <LocationDisplay key={idx} loc={loc}/>
       );
     });
 
